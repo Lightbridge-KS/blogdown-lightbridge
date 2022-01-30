@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 *.nb.html
+# Recommend by RStudio
+/public/*
+resources

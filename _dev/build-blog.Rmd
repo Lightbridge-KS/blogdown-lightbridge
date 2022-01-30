@@ -30,6 +30,13 @@ If you are not using RStudio, you can create a new empty directory, and call the
 ```
 
 
+## When not Sure
+
+```{r}
+blogdown::check_site()
+```
+
+
 ## Live Preview Site
 
 ```{r}

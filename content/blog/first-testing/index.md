@@ -4,7 +4,7 @@ subtitle: "Testing post and text preview for this site."
 excerpt: ""
 date: 2022-01-30T21:25:59+07:00
 author: ""
-draft: true
+draft: false
 series:
 tags:
 categories:
