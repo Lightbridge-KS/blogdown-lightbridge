@@ -1,0 +1,84 @@
+---
+title: "Build Blog"
+output: html_notebook
+---
+
+```{r setup, include=FALSE}
+knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file()) # Set WD to Root
+here::i_am("_dev/build-blog.Rmd")
+library(here)
+library(blogdown)
+```
+
+## Ref:
+
+Follow the steps from this tutorial:
+
+-  [Youtube](https://www.youtube.com/watch?v=MrW5XFf7aps&t=1263)
+-  [Github](https://github.com/ivelasq/2022-01-25_building-a-blog-with-r)   
+-  [Real Test App](https://hugo-apero-docs.netlify.app)
+
+## Create New Site
+
+If you are not using RStudio, you can create a new empty directory, and call the new_site() function in the directory in the R console to create a new site project:
+
+```{r}
+# new_site(theme = "hugo-apero/hugo-apero", 
+#            format = "toml",
+#            sample = FALSE,
+#            empty_dirs = TRUE)
+```
+
+
+## Live Preview Site
+
+```{r}
+blogdown::serve_site()
+```
+
+## Build Site
+
+```{r}
+blogdown::build_site()
+```
+
+
+## Blog
+
+### New Blog
+
+```{r}
+# blogdown::new_content("blog/test-blog")
+```
+
+
+
+## Config
+
+### Overall Config
+
+in `config.toml`
+
+
+## Images
+
+For all image files (favicon, logo, and sharing_image), the files should be placed in the /static/ folder in your project root. The default config.toml file shows them inside /static/img/, for example:
+
+config.toml
+static/
+└── img/
+    ├── favicon.ico 
+    ├── blogophonic-mark-dark.png
+    └── papillons.jpg
+    
+### Img Location
+    
+```{r}
+# fs::dir_create(here("static/img"))
+fs::dir_tree(here("static/img"))
+```
+    
+    
+    
+    
+    

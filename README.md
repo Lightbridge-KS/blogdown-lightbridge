@@ -1,2 +1,2 @@
-# blogdown-hugo-apero
-Blogdown Hugo Apero Test
+# blogdown-lightbridge
+Blogdown Hugo Apéro

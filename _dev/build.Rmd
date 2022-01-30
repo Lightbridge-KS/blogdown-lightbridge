@@ -1,0 +1,92 @@
+---
+title: "Build Project"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file()) # Set WD to Root
+here::i_am("my_dev/build.Rmd")
+library(here)
+```
+
+
+# 1. Project File Structures
+
+
+```{r fs_proj}
+fs::dir_create(here("my_dev")) # Contain R-Markdown to develop
+# fs::dir_create(here("my_data")) # Contain my private data
+# fs::dir_create(here("my_R")) # Contain my personal R script file 
+```
+
+# 2. Git & Build
+
+```{r use_git}
+usethis::use_git()
+```
+
+## Git Ignore
+
+```{r use_git_ignore}
+usethis::use_git_ignore("*.nb.html") # HTML notebook
+# usethis::use_git_ignore("folder_name")
+# usethis::use_git_ignore("testdata/") # ignore private Test Data in `inst/testdata`
+```
+
+
+# 3. DOCs
+
+
+## DESCRIPTION
+
+```{r DESCRIPTION}
+usethis::use_description(
+fields = list(
+  Title = "Blogdown with Hugo Apero theme",
+  `Authors@R` = 'person("Kittipos", "Sirivongrungson", 
+                        email = "ki11ip0.s.a.s@gmail.com", 
+                        role = c("aut", "cre"))',
+  Description = "This is a blogdown website generated from R.",
+  #License = "MIT + file LICENSE",
+  Depends = "R (>= 4.10)"
+  ),
+  check_name = FALSE
+)
+```
+
+
+## LICENSE
+
+```{r LICENSE}
+# usethis::use_mit_license()
+```
+
+## README
+
+```{r README}
+# usethis::use_readme_rmd()
+# usethis::use_lifecycle_badge("experimental")
+```
+
+
+# 4. Dependencies
+
+## Import
+
+```{r import}
+# usethis::use_pipe()
+# usethis::use_tibble() # If package use `tbl_df` class
+usethis::use_package("blogdown")
+
+# Dev Package
+# usethis::use_dev_package("pkg", remote = "Lightbridge-KS/pkg")
+```
+
+
+## Import from
+
+```{r import_from}
+# usethis::use_import_from("rlang", ":=") # Must have if use rlang
+```
+
