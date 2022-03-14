@@ -4,11 +4,24 @@ subtitle: "Testing post and text preview for this site."
 excerpt: ""
 date: 2022-01-30T21:25:59+07:00
 author: ""
-draft: true
+draft: true # Will render locally only
 series:
 tags:
 categories:
 layout: single # single or single-sidebar
+links:
+- icon: door-open # icon name without the 'fa-'
+  icon_pack: fas
+  name: website
+  url: https://allisonhorst.github.io/palmerpenguins/
+- icon: github # icon name without the 'fa-'
+  icon_pack: fab
+  name: code
+  url: https://github.com/allisonhorst/palmerpenguins/
+- icon: newspaper # icon name without the 'fa-'
+  icon_pack: far
+  name: Blog post
+  url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
 ---
 
 {{< here >}}
