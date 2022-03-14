@@ -6,7 +6,7 @@ show_title_as_headline: true
 title: Contributors
 ---
 
-Thank you to all the people who have made this site possible.
+The source code of this site is available in [GitHub](https://github.com/Lightbridge-KS/blogdown-lightbridge). Thank you to all the people who have made this site possible.
 
 -   [**Alison Hill**](https://www.apreshill.com) (introduced me to creating personal website with [Hugo Apèro](https://hugo-apero-docs.netlify.app) using R [blogdown](https://bookdown.org/yihui/blogdown/) package)
 
