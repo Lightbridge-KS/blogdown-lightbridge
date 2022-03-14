@@ -6,7 +6,7 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file()) # Set WD to Root
-here::i_am("my_dev/build.Rmd")
+here::i_am("_dev/build.Rmd")
 library(here)
 ```
 
@@ -15,7 +15,7 @@ library(here)
 
 
 ```{r fs_proj}
-fs::dir_create(here("my_dev")) # Contain R-Markdown to develop
+# fs::dir_create(here("my_dev")) # Contain R-Markdown to develop
 # fs::dir_create(here("my_data")) # Contain my private data
 # fs::dir_create(here("my_R")) # Contain my personal R script file 
 ```
@@ -47,8 +47,8 @@ fields = list(
   `Authors@R` = 'person("Kittipos", "Sirivongrungson", 
                         email = "ki11ip0.s.a.s@gmail.com", 
                         role = c("aut", "cre"))',
-  Description = "This is a blogdown website generated from R.",
-  #License = "MIT + file LICENSE",
+  Description = "This is a blogdown website generated from R using Hugo Apéro theme.",
+  License = "MIT + file LICENSE",
   Depends = "R (>= 4.10)"
   ),
   check_name = FALSE

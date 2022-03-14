@@ -6,3 +6,6 @@
 # Recommend by RStudio
 /public/*
 resources
+.Rdata
+.httr-oauth
+.DS_Store
