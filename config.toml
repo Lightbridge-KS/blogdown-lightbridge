@@ -27,17 +27,17 @@ enableEmoji = true
     # one of: https://xyproto.github.io/splash/docs/
     style = "friendly"
 
-[params]
+[params] # Allison hills made these
   orgName = "Lightbridge"
   orgLocal = ""
-  description = "A personal blog to the world."
+  description = "Personal website of Kittipos Sirivongrungson (Lightbridge)"
   favicon = "/img/favicon.ico"
   #logo = "/img/blogophonic-mark-dark.png"
-  #mainSections = ["blog", "project", "talk"]
-  navallcaps = true
+  mainSections = ["blog"] # "blog", "project", "talk"
+  navallcaps = true # Navigation bar all caps ?
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
-  socialInHeader = false
+  socialInHeader = true
   socialInFooter = false
   # Default image for social sharing and search engines.
   # Place image file in `static` folder and specify image name here.
@@ -103,7 +103,7 @@ enableEmoji = true
   # Configure header
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About Me"
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -111,11 +111,11 @@ enableEmoji = true
     title = "Blog"
     url = "/blog/"
     weight = 2
-  [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
-    weight = 3
+  #[[menu.header]]
+    #name = "Projects"
+    #title = "Project Portfolio"
+    #url = "/project/"
+    #weight = 3
 
   # Configure footer
   [[menu.footer]]
@@ -123,11 +123,11 @@ enableEmoji = true
     title = "License"
     url = "/license/"
     weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
+  #[[menu.footer]]
+    #name = "Contact"
+    #title = "Contact form"
+    #url = "/contact/"
+    #weight = 2
   [[menu.footer]]
     name = "Contributors"
     title = "Contributors"

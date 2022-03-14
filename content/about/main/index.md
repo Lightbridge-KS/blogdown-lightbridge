@@ -1,9 +1,9 @@
 ---
 ## Configure page content in wide column
 title: "Hello! It's nice to meet you"
-number_featured: 0 # pulling from mainSections in config.toml
+number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
-number_categories: 0 # set to zero to exclude
+number_categories: 3 # set to zero to exclude
 show_intro: true
 show_outro: false
 intro: |

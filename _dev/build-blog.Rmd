@@ -1,6 +1,6 @@
 ---
 title: "Build Blog"
-output: html_notebook
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
@@ -38,6 +38,8 @@ blogdown::check_site()
 
 
 ## Live Preview Site
+
+Addins -> blogdown -> Serve Site
 
 ```{r}
 blogdown::serve_site()

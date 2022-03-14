@@ -5,9 +5,9 @@ description: |
 author: "Kittipos Sirivongrungson"
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
-show_author_byline: false
+show_author_byline: true
 show_post_date: true
-show_button_links: false
+show_button_links: true
 # for listing page layout
 layout: list # list, list-sidebar, list-grid
 

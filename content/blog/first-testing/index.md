@@ -4,12 +4,14 @@ subtitle: "Testing post and text preview for this site."
 excerpt: ""
 date: 2022-01-30T21:25:59+07:00
 author: ""
-draft: false
+draft: true
 series:
 tags:
 categories:
 layout: single # single or single-sidebar
 ---
+
+{{< here >}}
 
 ## Text
 
@@ -30,3 +32,19 @@ $$
 Footnotes use standard Pandoc markdown notation, for example [^1]. The number of the footnote will be automatically generated.
 
 [^1]: This will become a hover-able footnote
+
+## But first, panelsets with R code chunks
+
+{{< panelset class="greetings" >}}
+{{< panel name="Panel 1" >}}
+
+Hello
+
+{{< /panel >}}
+{{< panel name="Panel 2" >}}
+
+
+World
+
+{{< /panel >}}
+{{< /panelset  >}}

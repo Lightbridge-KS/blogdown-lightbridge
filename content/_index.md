@@ -8,8 +8,8 @@ image_left: true
 text_align_left: true
 show_social_links: true # specify social accounts in site config
 show_action_link: true
-action_link: /blog
-action_label: "Read latest posts &rarr;"
+action_link: /about
+action_label: "Read More &rarr;"
 action_type: text # text, button
 type: home
 ---
