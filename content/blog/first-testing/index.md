@@ -5,9 +5,9 @@ excerpt: ""
 date: 2022-01-30T21:25:59+07:00
 author: ""
 draft: true # Will render locally only
-series:
-tags:
-categories:
+series: ["test-series"]
+tags: ["test-tags"]
+categories: ["test-category"]
 layout: single # single or single-sidebar
 links:
 - icon: door-open # icon name without the 'fa-'
@@ -61,3 +61,5 @@ World
 
 {{< /panel >}}
 {{< /panelset  >}}
+
+

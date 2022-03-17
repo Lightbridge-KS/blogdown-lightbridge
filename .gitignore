@@ -5,7 +5,11 @@
 *.nb.html
 # Recommend by RStudio
 /public/*
-resources
+/resources
 .Rdata
 .httr-oauth
 .DS_Store
+
+# Recommend by `blogdown::check_site()`
+Thumbs.db
+.hugo_build.lock

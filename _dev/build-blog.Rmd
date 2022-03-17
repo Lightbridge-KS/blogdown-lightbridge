@@ -57,7 +57,11 @@ blogdown::build_site()
 ### New Blog
 
 ```{r}
-# blogdown::new_content("blog/test-blog")
+ blogdown::new_content("blog/test-blog")
+```
+
+```{r}
+blogdown::new_post(here("A new post"))
 ```
 
 
