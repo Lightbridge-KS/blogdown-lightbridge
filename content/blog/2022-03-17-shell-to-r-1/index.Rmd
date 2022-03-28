@@ -6,8 +6,8 @@ excerpt: ""
 author: "Kittipos Sirivongrungson"
 draft: false # Will render locally only
 series: ["Shell & R"]
-tags: ["r", "shell", "zsh"]
-categories: ["r", "shell"]
+tags: ["R", "Shell", "zsh"]
+categories: ["R", "Shell"]
 layout: single # single or single-sidebar
 ---
 
