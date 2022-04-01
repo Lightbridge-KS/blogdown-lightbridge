@@ -116,6 +116,10 @@ enableEmoji = true
     title = "Project Portfolio"
     url = "/project/"
     weight = 3
+  #[[menu.header]]
+    #name = "Google"
+    #url = "https://www.google.com"
+    #weight = 4
 
   # Configure footer
   [[menu.footer]]
