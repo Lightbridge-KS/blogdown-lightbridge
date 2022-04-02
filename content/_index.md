@@ -1,7 +1,7 @@
 ---
 title: "Lightbridge"
-subtitle: "Medical Doctor & Developer"
-description: "Hi, I'm a medical doctor and developer. My hobbies involve learning new technical skills involving programming, data science, and building software tools for others and myself."
+subtitle: "Medical Doctor & R Developer"
+description: "Hi, I'm a medical doctor and R developer. My hobbies involve learning technical skills such as programming, data science, and building software tools for others and myself."
 images:
   - img/grand-teton.jpg
 image_left: true
