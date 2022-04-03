@@ -40,3 +40,8 @@ Quiz and question analysis is vital for improving the quality of exam.
 ## Goal
 
 The goal of this package it to provide a high-level functions for analysis of [Moodle Grades Report](https://docs.moodle.org/311/en/Quiz_reports#Grades_report) such as calculation of descriptive statistics for quiz & questions, and performing an item analysis.
+
+
+## See more
+
+Please visit: [moodleStats website](https://lightbridge-ks.github.io/moodleStats/)

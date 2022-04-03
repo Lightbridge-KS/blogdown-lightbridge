@@ -35,6 +35,10 @@ It is not easy to create a PDF from R Markdown written in **Thai language** sinc
 
 ## Goal
 
-The goal is to facilitate R users who not know very much about LaTeX to have an ability to **knit** Thai R Markdown document to a PDF **out of the box**. 
+The goal is to facilitate R users who not know very much about LaTeX to have an ability to **knit** Thai R Markdown document to a PDF **out-of-the-box**. 
 
-Also, for pro LaTeX user can also benefit from this package in that this package provides helper funcions to use template for Thai language configuration quickly.
+Also, for pro LaTeX user can also benefit from this package in that this package provides helper functions to use template for Thai language configuration quickly.
+
+## See more
+
+Please visit: [thaipdf website](https://lightbridge-ks.github.io/thaipdf/)
