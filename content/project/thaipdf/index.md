@@ -1,6 +1,6 @@
 ---
 title: thaipdf
-summary: R package that helps render R Markdown to PDF in Thai language 🇹🇭. 
+summary: R 📦 that helps render R Markdown to PDF in Thai language 🇹🇭. 
 date: "2022-03-28"
 author: "Kittipos Sirivongrungson"
 external_link: https://lightbridge-ks.github.io/thaipdf/
