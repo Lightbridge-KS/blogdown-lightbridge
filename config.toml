@@ -110,7 +110,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Blog"
     title = "Blog"
-    url = "/blog/"
+    url = "https://lightbridge-blog.netlify.app" #"/blog/"
     weight = 2
   [[menu.header]]
     name = "Projects"
