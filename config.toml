@@ -117,6 +117,7 @@ enableEmoji = true
     title = "Project Portfolio"
     url = "/project/"
     weight = 3
+
   #[[menu.header]]
     #name = "Google"
     #url = "https://www.google.com"
@@ -138,6 +139,11 @@ enableEmoji = true
     title = "Contributors"
     url = "/contributors/"
     weight = 3
+  [[menu.footer]]
+    name = "CV"
+    title = "Curriculum Vitae"
+    url = "/cv/ks-modern-cv.pdf"
+    weight = 4
 
 # see https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
