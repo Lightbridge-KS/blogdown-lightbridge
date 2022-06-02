@@ -10,12 +10,14 @@ tags:
   - R
   - R-pkg
   - Education
+  - Moodle
   - Analysis
 categories:
   - R-pkg
   - Stats
   - Analysis
   - Education
+  - Moodle
 # layout options: single or single-sidebar
 layout: single
 links:
@@ -35,11 +37,11 @@ links:
 ## Rationale
 
 Quiz and question analysis is vital for improving the quality of exam.
-[Moodle](https://moodle.org) is a popular learning management system in which teacher can create online quiz for the student. After students have submitted their work, grades and answers can be obtain by [Moodle Quiz Report](https://docs.moodle.org/311/en/Quiz_reports#Grades_report). The Moodle Quiz Reports are structured is a particular pattern that one can write code (such as R) to perform various data analysis on them. The code based analysis have an advantage of reducing human error, reducing time required for manual analysis, and allowing more reproducible workflow.
+[Moodle](https://moodle.org) is a popular learning management system in which teacher can create online quiz for the student. After students have submitted their work, grades and answers can be obtain by [Moodle Quiz Reports](https://docs.moodle.org/311/en/Quiz_reports#Grades_report). The Moodle Quiz Reports are structured is a particular pattern that one can write code (such as R) to perform various data analysis on them. The code based analysis have an advantage of reducing human error, reducing time required for manual analysis, and allowing more reproducible workflow.
 
 ## Goal
 
-The goal of this package it to provide a high-level functions for analysis of [Moodle Grades Report](https://docs.moodle.org/311/en/Quiz_reports#Grades_report) such as calculation of descriptive statistics for quiz & questions, and performing an item analysis.
+The goal of this package it to provide a high-level functions for analysis of [Moodle Grades Reports](https://docs.moodle.org/311/en/Quiz_reports#Grades_report) such as calculation of descriptive statistics for quiz & questions, and performing an item analysis.
 
 
 ## See more
