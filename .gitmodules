@@ -2,3 +2,6 @@
 	path = static/kittipos-cv
 	url = https://github.com/Lightbridge-KS/kittipos-cv.git
 	branch = output
+[submodule "themes/hugo-apero"]
+	path = themes/hugo-apero
+	url = https://github.com/hugo-apero/hugo-apero.git
