@@ -1,0 +1,4 @@
+[submodule "static/kittipos-cv"]
+	path = static/kittipos-cv
+	url = https://github.com/Lightbridge-KS/kittipos-cv.git
+	branch = output
