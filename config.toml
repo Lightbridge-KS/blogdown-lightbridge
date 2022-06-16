@@ -113,6 +113,11 @@ enableEmoji = true
     url = "https://lightbridge-blog.netlify.app" #"/blog/"
     weight = 2
   [[menu.header]]
+    name = "Book"
+    title = "My Book and Notes"
+    url = "/book/"
+    weight = 3
+  [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
     url = "/project/"
