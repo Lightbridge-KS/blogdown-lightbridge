@@ -38,8 +38,8 @@ enableEmoji = true
   navallcaps = true # Navigation bar all caps ?
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
-  socialInHeader = true
-  socialInFooter = false
+  socialInHeader = false
+  socialInFooter = true
   # Default image for social sharing and search engines.
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/grand-teton.jpg"
@@ -90,6 +90,10 @@ enableEmoji = true
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/Lightbridge-KS"
+  [[params.social]]
+      icon      = "orcid" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://orcid.org/0000-0003-3075-5159"
   #[[params.social]]
       #icon      = "facebook-square" # icon name without the 'fa-'
       #icon_pack = "fab"
@@ -118,10 +122,10 @@ enableEmoji = true
     url = "/book/"
     weight = 3
   [[menu.header]]
-    name = "Projects"
+    name = "Project"
     title = "Project Portfolio"
     url = "/project/"
-    weight = 3
+    weight = 4
 
   #[[menu.header]]
     #name = "Google"
