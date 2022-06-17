@@ -6,6 +6,7 @@ date: 2022-06-16
 show_post_time: false
 author: "Kittipos Sirivongrungson"
 draft: false
+featured: yes
 # layout options: single, single-sidebar
 layout: single
 categories:

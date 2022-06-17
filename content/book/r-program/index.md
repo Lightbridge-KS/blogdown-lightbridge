@@ -8,6 +8,7 @@ author: "Kittipos Sirivongrungson"
 draft: false
 # layout options: single, single-sidebar
 layout: single
+featured: yes
 categories:
 - Notes
 - R
