@@ -25,6 +25,6 @@ links:
 
 [Julia](https://julialang.org) is a fun programming language to learn. 
 
-I think it resembles both `R` and `Python`. However, most of my project and my skill still revolves around `R`, and I've not familiar with `Python` yet, so I'll probably leaves `Julia` for a moment.
+I think it resembles both `R` and `Python`. However, most of my project and my skill still revolves around `R`, and I've not familiar with `Python` yet, so I'll probably leaves `Julia` for a moment, next time my friend !
 
 Once I'm ready, I might playing with `Julia` later. This notebook will jog my memory when I want to revisit.
