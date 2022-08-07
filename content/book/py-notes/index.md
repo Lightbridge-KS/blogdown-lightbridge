@@ -23,6 +23,6 @@ links:
   url: https://github.com/Lightbridge-KS/py-notes
 ---
 
-I create this notebook as a tool to collect my personalized knowledge of `Python` programming. Code in this books came from various places, and some of them was modified by me.
+I create this notebook as a tool to collect my personalized knowledge of `Python` programming. Code in this books came from various places, and some of them was modified.
 
 I haven't build any serious Python project, yet, since I found that my first programming language `R` can do most of the task I needed. Therefore, this notebook will be a kind of reference to "jog" my memory back when I needed.
