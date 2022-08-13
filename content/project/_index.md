@@ -1,6 +1,6 @@
 ---
 title: Projects
-description: "Most of my projects are R packages!"
+description: "These are my software projects that I particularly proud of."
 author: ""
 show_post_thumbnail: true
 show_author_byline: true
