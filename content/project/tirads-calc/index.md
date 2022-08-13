@@ -36,7 +36,7 @@ links:
 
 ## Why
 
-Just pure curiosity and passion for building web application that relevant in my field. Using Quarto & Shiny combination (described next) is also very fun !
+Just pure curiosity and passion for building web application that relevant in my field. Using Quarto & Shiny combination (described next) is very fun !
 
 ## Design
 
