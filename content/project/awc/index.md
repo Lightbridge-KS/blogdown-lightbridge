@@ -29,7 +29,7 @@ links:
 
 ## Goal
 
-Adrenal CT Washout Calculator (AWC) application calculate percentage adrenal washout (APC, RPC) from input HU in CT non-contrast, enhanced, and delayed phase for characterizing benign vs malignant nature of incidental adenoma. 
+Adrenal CT Washout Calculator (AWC) application calculate percentage adrenal washout (APW, RPW) from input HU in CT non-contrast, enhanced, and delayed phase for characterizing benign vs malignant nature of incidental adenoma. 
 
 
 Light             |  Dark
