@@ -38,7 +38,7 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
   #favicon = "/img/favicon.ico"
   favicon = "/img/logo_rounded.ico"
   #logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "book"] # "blog", "project", "talk"
+  mainSections = ["blog", "project", "book", "story"] # "blog", "project", "talk"
   navallcaps = true # Navigation bar all caps ?
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -130,6 +130,11 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
     title = "Project Portfolio"
     url = "/project/"
     weight = 4
+  [[menu.header]]
+    name = "Story"
+    title = "Cool story"
+    url = "/story/"
+    weight = 5
 
   #[[menu.header]]
     #name = "Google"
