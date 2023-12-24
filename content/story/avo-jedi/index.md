@@ -37,3 +37,25 @@ Avo-Wan was taken under the wing of Master Grapefruit, a wise and ancient fruit 
 ![avocado jedi meditation](./img/avojedi-meditate.png)
 
 > 2D animation of the avocado Jedi meditating in a serene garden. The surroundings are calm, with a gentle waterfall in the background. As the avocado meditates, its pit glows brighter, symbolizing its connection with the Force.
+
+
+## Chapter 3: The Tomato Menace
+
+The galaxy of Frutopia is shaken by the rise of Tomatous, a powerful Tomato Sith causing chaos in Vegtopia and threatening to extend his control to Frutopia. The Fruit Council is alarmed by his actions, which involve harnessing Vegtopian Crystals to increase his power. 
+
+![The rise of Tomatous](./img/ch3_Tomatous.png)
+
+
+
+Avo-Wan, trained in the ways of the Fruit Force, resolves to confront this menacing figure. Preparing through meditation and guidance from the Fruit Force, Avo-Wan sets out to Vegtopia, determined to end Tomatous's tyranny and restore peace.
+
+
+![Avo-Wan Meditation](./img/ch3_avo-wan_prepare.png)
+
+## Chapter 4: Duel of Fates
+
+In the heart of Vegtopia, Avo-Wan and Tomatous clashed. Their battle was fierce, lightsabers illuminating the dark skies. But Avo-Wan's training and connection to the Fruit Force gave him an edge. Using a special move taught by Master Grape Yoda, Avo-Wan disarmed Tomatous, bringing peace to the galaxies.
+
+![Duel of Fates](./img/ch4_duel-of-fates.png)
+
+> Note: Avo-Wan face should be avocado, not tomatoes. 
