@@ -1,6 +1,6 @@
 ---
 title: PedDesignCT
-summary: A desktop application for generate template for pediatric CT protocol
+summary: A desktop application for generate template for pediatric CT protocol.
 date: "2024-01-15"
 author: "Kittipos Sirivongrungson"
 external_link: https://github.com/Lightbridge-KS/PedDesign-Desktop
