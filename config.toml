@@ -38,7 +38,7 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
   #favicon = "/img/favicon.ico"
   favicon = "/img/logo_rounded.ico"
   #logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "book", "story"] # "blog", "project", "talk"
+  mainSections = ["blog", "project", "book", "gallery", "story"] # "blog", "project", "talk"
   navallcaps = true # Navigation bar all caps ?
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -131,10 +131,15 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
     url = "/project/"
     weight = 4
   [[menu.header]]
+    name = "Gallery"
+    title = "My Gallery"
+    url = "https://lightbridge-gallery.netlify.app"
+    weight = 5
+  [[menu.header]]
     name = "Story"
     title = "Cool story"
     url = "/story/"
-    weight = 5
+    weight = 6
 
   #[[menu.header]]
     #name = "Google"
