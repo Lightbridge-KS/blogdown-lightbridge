@@ -10,11 +10,13 @@ intro: |
   Hello, I am a medical doctor who gains interest in software developing and data science.
   I am a real geek. I love computer software and developing tools for others (including myself) to use in real life and also for fun!
   
-  My first programming language is [R](https://www.r-project.org), and now it is my favorite tool to analyse data, build R-package, and build cool [shiny](https://shiny.rstudio.com) application.
+  My first programming language is [R](https://www.r-project.org), and now it is my favorite tool to analyse data, build R-package, and build cool [shiny](https://shiny.rstudio.com) application. 
+  
+  I'm also expanding skill toward more generalized programming language such as [Python](https://www.python.org) to build cool applications (e.g., [Flet](https://flet.dev), [CustomTkinter](https://customtkinter.tomschimansky.com)). 
   
   The aim of this blog is to spread knowledge to the word in the areas of programming, data science, productivity, and including life in general.
   
-  I live in Bangkok, Thailand with my family, my dog, and good friends.
+  I live in Bangkok, Thailand with my family, and good friends.
   
   This blog is built with [blogdown](https://github.com/rstudio/blogdown) and [Hugo](https://gohugo.io/), and deployed using [Netlify](https://www.netlify.com/). My blog posts are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). 
 ---
