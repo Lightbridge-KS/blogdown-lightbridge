@@ -24,7 +24,6 @@ links:
   url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
 ---
 
-{{< here >}}
 
 ## Text
 
@@ -45,21 +44,3 @@ $$
 Footnotes use standard Pandoc markdown notation, for example [^1]. The number of the footnote will be automatically generated.
 
 [^1]: This will become a hover-able footnote
-
-## But first, panelsets with R code chunks
-
-{{< panelset class="greetings" >}}
-{{< panel name="Panel 1" >}}
-
-Hello
-
-{{< /panel >}}
-{{< panel name="Panel 2" >}}
-
-
-World
-
-{{< /panel >}}
-{{< /panelset  >}}
-
-
