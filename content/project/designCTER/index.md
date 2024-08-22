@@ -23,6 +23,10 @@ links:
   icon_pack: fas
   name: download
   url: https://github.com/Lightbridge-KS/designCTER/releases
+- icon: book-open
+  icon_pack: fab
+  name: user-guide
+  url: https://design-cter-userguide.netlify.app
 - icon: github
   icon_pack: fab
   name: code
@@ -40,6 +44,8 @@ The goal of `DesignCTER` is to generate a template for design a variety of CT pr
 **Build using [Flet](https://flet.dev/)**, a cross-platform UI framework in Python.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/crptct3i8mpiw516?svg=true)](https://ci.appveyor.com/project/Lightbridge-KS/designcter) [![Netlify Status](https://api.netlify.com/api/v1/badges/1ca89925-4b24-4cca-a13f-a1a15718c947/deploy-status)](https://app.netlify.com/sites/design-cter/deploys)
+
+- **User Guide:** <https://design-cter-userguide.netlify.app>
 
 - **Web app:** <https://design-cter.netlify.app>
 
