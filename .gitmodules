@@ -1,6 +1,6 @@
 [submodule "static/kittipos-cv"]
 	path = static/kittipos-cv
-	url = https://github.com/Lightbridge-KS/kittipos-cv-typst.git
+	url = https://github.com/Lightbridge-KS/kittipos-cv.git
 	branch = output
 [submodule "themes/hugo-apero"]
 	path = themes/hugo-apero
