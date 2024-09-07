@@ -5,3 +5,7 @@
 [submodule "themes/hugo-apero"]
 	path = themes/hugo-apero
 	url = https://github.com/hugo-apero/hugo-apero.git
+[submodule "static/kittipos-cv-typst"]
+	path = static/kittipos-cv-typst
+	url = https://github.com/Lightbridge-KS/kittipos-cv-typst.git
+	branch = output
