@@ -165,7 +165,7 @@ pygmentsUseClasses = true  # use class names instead of directly inserting color
   [[menu.footer]]
     name = "CV"
     title = "Curriculum Vitae"
-    url = "/kittipos-cv/ks-modern-cv.pdf"
+    url = "/kittipos-cv-typst/Kittipos-CV.pdf"
     weight = 4
 
 # see https://gohugo.io/about/hugo-and-gdpr/
